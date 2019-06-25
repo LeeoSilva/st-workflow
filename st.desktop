@@ -6,6 +6,6 @@ Exec=st -t "Simple Terminal"
 Terminal=false
 Type=Application
 Encoding=UTF-8
-Icon=utilities-terminal
+Icon=org.gnome.Terminal
 Categories=System;TerminalEmulator;
 Keywords=shell;prompt;command;commandline;cmd;
