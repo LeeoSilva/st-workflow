@@ -2,7 +2,7 @@
 Name=Simple Terminal
 GenericName=Terminal
 Comment=Suckless terminal emulator for X
-Exec=st -t "Simple Terminal" -c "simple-terminal"
+Exec=st -c "st"
 Terminal=false
 Type=Application
 Encoding=UTF-8
